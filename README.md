@@ -95,9 +95,9 @@ You are allowed to miss up to two Challenge assignments and still earn your cert
 ![ecb4794364c62dba4a6bed1d8de3d5cf](https://user-images.githubusercontent.com/80983324/114294230-05c93400-9a52-11eb-805e-8f564e872d70.png)
 
 # Deployed application
-https://nitinvemuri.github.io/password-generator/
+https://nitinvemuri.github.io/pass-gen/
 
 # Github repository
-https://github.com/nitinvemuri/password-generator
+https://github.com/nitinvemuri/pass-gen
 
 
